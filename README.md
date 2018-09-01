@@ -2,7 +2,7 @@
 autoencoder for generating mnist dataset
 
 #### Autoencoder Architecture
-![Alt-text](https://github.com/jaynilpatel/autoencoder/blob/master/ae.png")
+![autoencoder_architecture.png](https://github.com/jaynilpatel/autoencoder/img/blob/master/ae.png")
 
 #### Convolutional Autoencoder for Mnist
-![Alt-text](https://github.com/jaynilpatel/autoencoder/blob/master/ae-conv.png")
+![convolutional-autoencoder.png](https://github.com/jaynilpatel/autoencoder/img/blob/master/ae-conv.png")
